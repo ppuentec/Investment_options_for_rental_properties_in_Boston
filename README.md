@@ -3,7 +3,7 @@ This is a project where I am learning to document a repository in GitHub. The to
 
 In the second part of this project, I will create a blog post to share my project and project findings with a non-technical audience.
 
-##### Table of Contents  
+# Table of Contents  
 [project description](#headers)
 
 [installation](#headers)
