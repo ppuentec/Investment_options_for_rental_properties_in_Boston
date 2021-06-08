@@ -1,8 +1,12 @@
-## Welcome to GitHub Pages
+## Investing options for rental properties in Boston
 
-You can use the [editor on GitHub](https://github.com/ppuentec/Investment_options_for_rental_properties_in_Boston/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Now that a more significant percentage of the population is getting vaccinated, the pandemic allows us to start leaving our homes. Some of us may want to invest in rental properties and try to capture some of the dollars that will become available from travelers in the coming months. Many people will start taking a vacation in many places across the country, including the Boston area.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In this project, I took data from Airbnb in Boston, and I provided some insight into the available properties and prices of rental properties in that area.
+
+I also calculated an 'Average Daily Rate' that will indicate the level of revenues that can be expected in that market. 
+
+I also calculated an 'Occupancy Rate' that will provide some information about the actual occupancy level; indicate the level of market saturation and possible loss of revenue for current property owners.
 
 ### Markdown
 
