@@ -3,6 +3,13 @@ This is a project where I am learning to document a repository in GitHub. The to
 
 In the second part of this project, I will create a blog post to share my project and project findings with a non-technical audience.
 
+# Table of Contents  
+[Project Description](#headers)
+[Installation](#headers)
+[Contribution](#headers)
+[Usage](#headers)
+[License](#headers)
+
 # Project Description
 In this document, I will provide a high level description of the code used and how to install it. The code include many notes for each step that I will not include here since it will be repetitive.
 The initial dataset is contained in the 'listings.csv' file taken from Kaggle here: https://www.kaggle.com/airbnb/boston
