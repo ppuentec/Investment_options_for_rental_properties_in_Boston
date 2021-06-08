@@ -2,6 +2,8 @@
 
 Now that a more significant percentage of the population is getting vaccinated, the pandemic allows us to start leaving our homes. Some of us may want to invest in rental properties and try to capture some of the dollars that will become available from travelers in the coming months. Many people will start taking a vacation in many places across the country, including the Boston area.
 
+## Introduction
+
 In this project, I took data from Airbnb in Boston, and I provided some insight into the available properties and prices of rental properties in that area.
 
 I also calculated an 'Average Daily Rate' that will indicate the level of revenues that can be expected in that market. 
