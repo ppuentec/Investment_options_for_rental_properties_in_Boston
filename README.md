@@ -4,15 +4,15 @@ This is a project where I am learning to document a repository in GitHub. The to
 In the second part of this project, I will create a blog post to share my project and project findings with a non-technical audience.
 
 # Table of Contents  
-[project description](#headers)
+[Project Description](#headers)
 
-[installation](#headers)
+[Installation](#headers)
 
-[contribution](#headers)
+[Contribution](#headers)
 
-[usage](#headers)
+[Usage](#headers)
 
-[license](#headers)
+[License](#headers)
 
 <a name="headers"/>
 
