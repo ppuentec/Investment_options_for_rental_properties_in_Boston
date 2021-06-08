@@ -14,6 +14,9 @@ In the second part of this project, I will create a blog post to share my projec
 
 [license](#headers)
 
+<a name="headers"/>
+## Headers
+
 # Project Description
 In this document, I will provide a high level description of the code used and how to install it. The code include many notes for each step that I will not include here since it will be repetitive.
 The initial dataset is contained in the 'listings.csv' file taken from Kaggle here: https://www.kaggle.com/airbnb/boston
